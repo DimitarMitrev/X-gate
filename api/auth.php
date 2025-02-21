@@ -22,6 +22,6 @@ function verifyToken() {
         exit();
     }
 
-    return $user; // Return user data if valid
+    return $user; 
 }
 ?>
